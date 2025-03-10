@@ -59,7 +59,7 @@
 <p>Contributions are welcome! Please fork the repository and submit pull requests.</p>
 
 <h3>Contact</h3>
-<p>For any inquiries or feedback, please contact me at tarun.agasr@gmail.com.</p>
+<p>For any inquiries or feedback, please contact me at pujariganesh415@gmail.com.</p>
 
 <h4>By acknowledging the significant role ChatGPT played in generating this code, I demonstrate the potential of AI tools in software development and my ability to effectively leverage these tools.</h4>
 
